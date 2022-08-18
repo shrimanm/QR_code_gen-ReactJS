@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/QR_code_gen-ReactJS/static/css/main.80ab9fa4.css",
+    "main.js": "/QR_code_gen-ReactJS/static/js/main.55b776e2.js",
+    "index.html": "/QR_code_gen-ReactJS/index.html",
+    "main.80ab9fa4.css.map": "/QR_code_gen-ReactJS/static/css/main.80ab9fa4.css.map",
+    "main.55b776e2.js.map": "/QR_code_gen-ReactJS/static/js/main.55b776e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80ab9fa4.css",
+    "static/js/main.55b776e2.js"
+  ]
+}
